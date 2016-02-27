@@ -1,0 +1,21 @@
+
+F0 - Pedal Acc
+F1 - Pedal Brake
+F4 - Pedal Clutch
+F5 - Shifter Horizontal
+F6 - Shifter Vertical
+F7 - N/C
+B6 - Wheel rotary Ch. Indx
+B5 - Wheel rotary Ch. A
+B4 - Wheel rotary Ch. B
+D7 - Shifter SH/LD
+D6 - Shifter LED
+
+B0-B3 - reserved for SPI
+B7 - Wheel buttons QH
+D0 - Wheel buttons CLK
+D1 - Wheel buttons SH/LD
+D2 - Wheel buttons A (LEDs)
+D3 - Wheel buttons Latch (Leds)
+C6 - Shifter CLK
+C7 - Shifter QH

@@ -1,0 +1,44 @@
+Pedals
+
+DB9
+1 - GND
+2 - Accelerator
+3 - Brake
+4 - Clutch
+5 - NC
+6 - Vcc (shorted to 9)
+7 - NC
+8 - NC
+9 - Vcc (shorted to 6)
+
+Shifter
+
+DB9
+1 - CLK
+2 - Qh
+3 - SH/LD
+4 - Horizontal stick
+5 - LED
+6 - GND
+7 - Vcc (shorted to 9)
+8 - Vertical stick
+9 - Vcc (shorted to 7)
+
+Wheel encoder
+
+1 - GND     / black
+2 - Index   / red
+3 - Ch.A    / blue
+4 - Vcc     / orange
+5 - Ch.B    / yellow
+
+Wheel Buttons
+
+1 - GND         / black
+2 - Qh          / violet
+3 - A (LEDs)    / white
+4 - CLK         / orange
+5 - Latch (LEDs)/ blue
+6 - SH/LD       / green
+7 - Vcc         / red
+
